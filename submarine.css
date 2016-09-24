@@ -6,6 +6,13 @@ body {
   box-sizing: border-box;
 }
 
+img.img-custom{
+   max-width:40%;
+   max-height:40%;
+   margin: auto;
+   display: block;
+}
+
 .sea {
   height: 50%;
   width: 100%;
